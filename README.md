@@ -1,4 +1,4 @@
-# Props-DNS
+# Props-Buffersize/DNS
 net.tcp.buffersize.default = 4096,87380,256960,4096, 16384,256960
 net.tcp.buffersize.wifi = 4096,87380,256960,4096,163 84,256960
 net.tcp.buffersize.umts = 4096,87380,256960,4096,163 84,256960
